@@ -15,7 +15,7 @@ body {
 }
 
 .bg {
-  background: url('https://github.com/lana-20/load-blur-effect/blob/master/img1.png') no-repeat center  center/cover;
+  background: url('img1.png') no-repeat center  center/cover;
   position: absolute;
   top: -30px;
   left: -30px;
